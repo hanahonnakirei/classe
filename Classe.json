@@ -1,0 +1,35 @@
+{
+  "nome": "5A",
+  "numeroAlunni": 21,
+  "scuolaSabato": false,
+  "scuola": "ITIS Majo",
+  "insegnanti": [
+    {
+      "nome": "Elena",
+      "cognome": "Baldino",
+      "materieInsegnate": [ "Informatica", "TPSIT", "GPOI" ]
+    },
+    {
+      "nome": "Valeria",
+      "cognome": "Fanale",
+      "materieInsegnate": [ "Informatica", "TPSIT", "GPOI" ]
+    }
+
+  ],
+  "alunni": [
+    {
+      "nome": "Marco",
+      "cognome": "Matteo"
+    },
+    {
+      "nome": "Piero",
+      "cognome": "Qwerty"
+    },
+    {
+      "nome": "Maria",
+      "cognome": "Gialli"
+    }
+
+  ]
+
+}
